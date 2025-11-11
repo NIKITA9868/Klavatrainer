@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="klavatrainer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/klavatrainer/out/artifacts/klavatrainer_jar/klavatrainer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
